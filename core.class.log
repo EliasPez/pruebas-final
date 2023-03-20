@@ -1,0 +1,171 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217671133935@s.whatsapp.net',
+    fromMe: false,
+    id: '23AFE5F58F22533602F820FAB05FB130',
+    participant: undefined
+  },
+  messageTimestamp: 1679342913,
+  pushName: 'Elías',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5217671133935'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217671133935@s.whatsapp.net',
+    fromMe: false,
+    id: '13E45EE33FCF549ECBE9E73B80C438FC',
+    participant: undefined
+  },
+  messageTimestamp: 1679342914,
+  pushName: 'Elías',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-1',
+      selectedDisplayText: 'Realizar pedido',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  body: 'Realizar pedido',
+  from: '5217671133935'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217671133935@s.whatsapp.net',
+    fromMe: false,
+    id: '07BE972D85D002B5181B423081B34EF0',
+    participant: undefined
+  },
+  messageTimestamp: 1679342920,
+  pushName: 'Elías',
+  message: Message {
+    conversation: '1 alas',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1 alas',
+  from: '5217671133935'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217671133935@s.whatsapp.net',
+    fromMe: false,
+    id: 'C47D190328E4DC272ECFC358B4BE4CEB',
+    participant: undefined
+  },
+  messageTimestamp: 1679342921,
+  pushName: 'Elías',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-0',
+      selectedDisplayText: 'Confirmar pedido',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  body: 'Confirmar pedido',
+  from: '5217671133935'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217671133935@s.whatsapp.net',
+    fromMe: false,
+    id: 'ADB12B7ED573555A9F4FFAE7A2B912C1',
+    participant: undefined
+  },
+  messageTimestamp: 1679342934,
+  pushName: 'Elías',
+  message: Message {
+    locationMessage: LocationMessage {
+      degreesLatitude: 18.3495928,
+      degreesLongitude: -100.6779081,
+      jpegThumbnail: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_location__db373a6c-edc0-4c03-acba-e10787867f2a',
+  from: '5217671133935'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217671133935@s.whatsapp.net',
+    fromMe: false,
+    id: '285490B3111F086C5C768FFC312BAE5F',
+    participant: undefined
+  },
+  messageTimestamp: 1679342943,
+  pushName: 'Elías',
+  message: Message {
+    conversation: 'Aquí we',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Aquí we',
+  from: '5217671133935'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217671133935@s.whatsapp.net',
+    fromMe: false,
+    id: '5B6A98FA988D7B432DAEF355492E8934',
+    participant: undefined
+  },
+  messageTimestamp: 1679342948,
+  pushName: 'Elías',
+  message: Message {
+    conversation: '7671193033',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '7671193033',
+  from: '5217671133935'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217671133935@s.whatsapp.net',
+    fromMe: false,
+    id: '489203F7E1873FCA03BB948AB8DDEE31',
+    participant: undefined
+  },
+  messageTimestamp: 1679342950,
+  pushName: 'Elías',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-0',
+      selectedDisplayText: 'Verificado',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  body: 'Verificado',
+  from: '5217671133935'
+}
